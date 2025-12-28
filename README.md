@@ -1,12 +1,13 @@
-\# Shutter Camera Plugin
+### Shutter Camera Plugin
 
 
 
-Installation: simply clone the plugin through Window -> Plugins -> Clone Project
+Installation: simply clone the plugin through Tools -> Plugins -> Clone Project
+and then copy the .git url
 
 
 
-\# Usage
+### Usage
 
 
 
